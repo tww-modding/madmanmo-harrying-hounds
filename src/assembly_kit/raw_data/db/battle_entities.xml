@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_entities.xsd" export_time="Tue Feb 21 10:44:35 2017" revision="675" export_branch="T:/branches/warhammer/bret/warhammer/binaries.x64" export_user="bob">
-<edit_uuid>55e0cd98-f632-4346-b6f0-62ff551620f8</edit_uuid>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battle_entities.xsd" export_time="Sat Mar 25 13:59:27 2017" revision="677" export_branch="C:/DEV/modding/total-war-warhammer/mods/madmanmo-harrying-hounds/scripts" export_user="assembly.kit">
+<edit_uuid>ca67eafb-9c39-4ba2-8db8-f2fd2cabcc12</edit_uuid>
 <battle_entities record_uuid="{4da31cdd-4dc2-4428-be9e-d689ed746f07}" record_timestamp="1463571069235" record_key="artillery_ballista_giant">
 <acceleration>1</acceleration>
 <allow_static_turn_anim>1</allow_static_turn_anim>
@@ -6351,8 +6351,8 @@
 <vfx_filter_id>0</vfx_filter_id>
 <walk_speed>1.8</walk_speed>
 </battle_entities>
-<battle_entities record_uuid="{3787bcc3-a1fd-4134-9aa5-38a611d81a19}" record_timestamp="1474294436729" record_key="wh_main_chs_monster_warhound_blood">
-<acceleration>6</acceleration>
+<battle_entities record_uuid="{3787bcc3-a1fd-4134-9aa5-38a611d81a19}" record_timestamp="1490414367162" record_key="wh_main_chs_monster_warhound_blood">
+<acceleration>8</acceleration>
 <allow_static_turn_anim>1</allow_static_turn_anim>
 <allow_turn_to_move_anim>1</allow_turn_to_move_anim>
 <audio_entity_type>wh_dire_wolve_warhound</audio_entity_type>
@@ -6360,13 +6360,13 @@
 <can_cast_projectile>0</can_cast_projectile>
 <can_climb_ladder_and_stair_pipes>0</can_climb_ladder_and_stair_pipes>
 <can_dismember>0</can_dismember>
-<charge_distance_adopt_charge_pose>30</charge_distance_adopt_charge_pose>
-<charge_distance_commence_run>35</charge_distance_commence_run>
-<charge_distance_pick_target>30</charge_distance_pick_target>
-<charge_speed>11.5</charge_speed>
+<charge_distance_adopt_charge_pose>40</charge_distance_adopt_charge_pose>
+<charge_distance_commence_run>45</charge_distance_commence_run>
+<charge_distance_pick_target>40</charge_distance_pick_target>
+<charge_speed>12</charge_speed>
 <combat_camera_shake>wh_main_unit_combat</combat_camera_shake>
 <combat_reaction_radius>6</combat_reaction_radius>
-<deceleration>7</deceleration>
+<deceleration>9</deceleration>
 <dismember_arms_alive_hp_ratio>-1</dismember_arms_alive_hp_ratio>
 <dismember_head_alive_hp_ratio>-1</dismember_head_alive_hp_ratio>
 <entity_effects>cavalry_effects</entity_effects>
@@ -6391,7 +6391,7 @@
 <projectile_penetration_speed_change>0.9</projectile_penetration_speed_change>
 <radii_ratio>0.4</radii_ratio>
 <radius>0.9</radius>
-<run_speed>9.5</run_speed>
+<run_speed>10</run_speed>
 <shape>ellipse</shape>
 <size>small</size>
 <soft_collision_offset_z>0</soft_collision_offset_z>
@@ -6399,7 +6399,7 @@
 <turn_speed>120</turn_speed>
 <type>horse</type>
 <vfx_filter_id>0</vfx_filter_id>
-<walk_speed>1.9</walk_speed>
+<walk_speed>2.5</walk_speed>
 </battle_entities>
 <battle_entities record_uuid="{18558e86-1789-4373-bdce-1477ed2ba640}" record_timestamp="1468496810484" record_key="wh_main_dwf_art_cannon">
 <acceleration>1.5</acceleration>
@@ -9551,8 +9551,8 @@
 <vfx_filter_id>0</vfx_filter_id>
 <walk_speed>1.4</walk_speed>
 </battle_entities>
-<battle_entities record_uuid="{991a87b5-c1d7-4bf0-a6e4-27df0a074b0b}" record_timestamp="1474294436700" record_key="wh_main_grn_wolf_mount_blood">
-<acceleration>6</acceleration>
+<battle_entities record_uuid="{991a87b5-c1d7-4bf0-a6e4-27df0a074b0b}" record_timestamp="1490414367226" record_key="wh_main_grn_wolf_mount_blood">
+<acceleration>8</acceleration>
 <allow_static_turn_anim>1</allow_static_turn_anim>
 <allow_turn_to_move_anim>1</allow_turn_to_move_anim>
 <audio_entity_type>wh_dire_wolve_warhound</audio_entity_type>
@@ -9560,13 +9560,13 @@
 <can_cast_projectile>0</can_cast_projectile>
 <can_climb_ladder_and_stair_pipes>0</can_climb_ladder_and_stair_pipes>
 <can_dismember>0</can_dismember>
-<charge_distance_adopt_charge_pose>30</charge_distance_adopt_charge_pose>
-<charge_distance_commence_run>35</charge_distance_commence_run>
-<charge_distance_pick_target>30</charge_distance_pick_target>
-<charge_speed>10.8</charge_speed>
+<charge_distance_adopt_charge_pose>40</charge_distance_adopt_charge_pose>
+<charge_distance_commence_run>45</charge_distance_commence_run>
+<charge_distance_pick_target>40</charge_distance_pick_target>
+<charge_speed>12</charge_speed>
 <combat_camera_shake>wh_main_unit_combat</combat_camera_shake>
 <combat_reaction_radius>0</combat_reaction_radius>
-<deceleration>7</deceleration>
+<deceleration>9</deceleration>
 <dismember_arms_alive_hp_ratio>-1</dismember_arms_alive_hp_ratio>
 <dismember_head_alive_hp_ratio>-1</dismember_head_alive_hp_ratio>
 <entity_effects>cavalry_effects</entity_effects>
@@ -9591,7 +9591,7 @@
 <projectile_penetration_speed_change>0.9</projectile_penetration_speed_change>
 <radii_ratio>0.6</radii_ratio>
 <radius>1</radius>
-<run_speed>9.2</run_speed>
+<run_speed>10</run_speed>
 <shape>ellipse</shape>
 <size>medium</size>
 <soft_collision_offset_z>0</soft_collision_offset_z>
@@ -9599,10 +9599,10 @@
 <turn_speed>120</turn_speed>
 <type>horse</type>
 <vfx_filter_id>0</vfx_filter_id>
-<walk_speed>1.9</walk_speed>
+<walk_speed>2.5</walk_speed>
 </battle_entities>
-<battle_entities record_uuid="{2472ff72-81e7-4739-a9c1-127efeb733e7}" record_timestamp="1474294436551" record_key="wh_main_grn_wolf_mount_hero_blood">
-<acceleration>6</acceleration>
+<battle_entities record_uuid="{2472ff72-81e7-4739-a9c1-127efeb733e7}" record_timestamp="1490414367213" record_key="wh_main_grn_wolf_mount_hero_blood">
+<acceleration>8</acceleration>
 <allow_static_turn_anim>1</allow_static_turn_anim>
 <allow_turn_to_move_anim>1</allow_turn_to_move_anim>
 <audio_entity_type>wh_dire_wolve_warhound</audio_entity_type>
@@ -9610,13 +9610,13 @@
 <can_cast_projectile>0</can_cast_projectile>
 <can_climb_ladder_and_stair_pipes>0</can_climb_ladder_and_stair_pipes>
 <can_dismember>0</can_dismember>
-<charge_distance_adopt_charge_pose>30</charge_distance_adopt_charge_pose>
-<charge_distance_commence_run>35</charge_distance_commence_run>
-<charge_distance_pick_target>30</charge_distance_pick_target>
-<charge_speed>10.8</charge_speed>
+<charge_distance_adopt_charge_pose>40</charge_distance_adopt_charge_pose>
+<charge_distance_commence_run>45</charge_distance_commence_run>
+<charge_distance_pick_target>40</charge_distance_pick_target>
+<charge_speed>12</charge_speed>
 <combat_camera_shake>wh_main_unit_combat</combat_camera_shake>
 <combat_reaction_radius>6</combat_reaction_radius>
-<deceleration>7</deceleration>
+<deceleration>9</deceleration>
 <dismember_arms_alive_hp_ratio>-1</dismember_arms_alive_hp_ratio>
 <dismember_head_alive_hp_ratio>-1</dismember_head_alive_hp_ratio>
 <entity_effects>cavalry_effects</entity_effects>
@@ -9641,7 +9641,7 @@
 <projectile_penetration_speed_change>0.9</projectile_penetration_speed_change>
 <radii_ratio>0.45</radii_ratio>
 <radius>1.2</radius>
-<run_speed>9.2</run_speed>
+<run_speed>10</run_speed>
 <shape>ellipse</shape>
 <size>medium</size>
 <soft_collision_offset_z>0</soft_collision_offset_z>
@@ -9649,7 +9649,7 @@
 <turn_speed>120</turn_speed>
 <type>horse</type>
 <vfx_filter_id>1</vfx_filter_id>
-<walk_speed>1.9</walk_speed>
+<walk_speed>2.5</walk_speed>
 </battle_entities>
 <battle_entities record_uuid="{f13639d2-10da-4038-aba7-fe9b7e75704c}" record_timestamp="1463571070182" record_key="wh_main_infantry_rider">
 <acceleration>2</acceleration>
@@ -11601,8 +11601,8 @@
 <vfx_filter_id>2</vfx_filter_id>
 <walk_speed>1.9</walk_speed>
 </battle_entities>
-<battle_entities record_uuid="{70dcc824-dd78-41e8-9808-332de29a0688}" record_timestamp="1474294436734" record_key="wh_main_monster_wolf_hound_blood">
-<acceleration>6</acceleration>
+<battle_entities record_uuid="{70dcc824-dd78-41e8-9808-332de29a0688}" record_timestamp="1490414367175" record_key="wh_main_monster_wolf_hound_blood">
+<acceleration>8</acceleration>
 <allow_static_turn_anim>1</allow_static_turn_anim>
 <allow_turn_to_move_anim>1</allow_turn_to_move_anim>
 <audio_entity_type>wh_dire_wolve_warhound</audio_entity_type>
@@ -11610,13 +11610,13 @@
 <can_cast_projectile>0</can_cast_projectile>
 <can_climb_ladder_and_stair_pipes>0</can_climb_ladder_and_stair_pipes>
 <can_dismember>0</can_dismember>
-<charge_distance_adopt_charge_pose>30</charge_distance_adopt_charge_pose>
-<charge_distance_commence_run>35</charge_distance_commence_run>
-<charge_distance_pick_target>30</charge_distance_pick_target>
+<charge_distance_adopt_charge_pose>40</charge_distance_adopt_charge_pose>
+<charge_distance_commence_run>45</charge_distance_commence_run>
+<charge_distance_pick_target>40</charge_distance_pick_target>
 <charge_speed>12</charge_speed>
 <combat_camera_shake>wh_main_unit_combat</combat_camera_shake>
 <combat_reaction_radius>6</combat_reaction_radius>
-<deceleration>7</deceleration>
+<deceleration>9</deceleration>
 <dismember_arms_alive_hp_ratio>-1</dismember_arms_alive_hp_ratio>
 <dismember_head_alive_hp_ratio>-1</dismember_head_alive_hp_ratio>
 <entity_effects>cavalry_effects</entity_effects>
@@ -11641,7 +11641,7 @@
 <projectile_penetration_speed_change>0.9</projectile_penetration_speed_change>
 <radii_ratio>0.4</radii_ratio>
 <radius>0.9</radius>
-<run_speed>9.5</run_speed>
+<run_speed>10</run_speed>
 <shape>ellipse</shape>
 <size>small</size>
 <soft_collision_offset_z>0</soft_collision_offset_z>
@@ -11649,7 +11649,7 @@
 <turn_speed>120</turn_speed>
 <type>horse</type>
 <vfx_filter_id>0</vfx_filter_id>
-<walk_speed>1.9</walk_speed>
+<walk_speed>2.5</walk_speed>
 </battle_entities>
 <battle_entities record_uuid="{d175b18f-5dac-4652-a699-537cdbbf5952}" record_timestamp="1463571070217" record_key="wh_main_placeholder">
 <acceleration>1</acceleration>

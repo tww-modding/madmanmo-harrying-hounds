@@ -156,7 +156,7 @@
 <uuid name="battle_cinematic_event_categories">3aa3c241-3426-470f-86c5-be6a3e1c2445</uuid>
 <uuid name="battle_cinematic_events">ef15d9ff-4cc4-49aa-9516-76c830891ee2</uuid>
 <uuid name="battle_climate_weather_descriptions">aa21c5c9-7b3a-4cbb-a68c-37ddd805796c</uuid>
-<uuid name="battle_entities">55e0cd98-f632-4346-b6f0-62ff551620f8</uuid>
+<uuid name="battle_entities">ca67eafb-9c39-4ba2-8db8-f2fd2cabcc12</uuid>
 <uuid name="battle_entities_class_validation_enum">255169c0-692a-4373-a383-8508c178c1a5</uuid>
 <uuid name="battle_entities_gradient_strategy_enums">4138435a-24f6-4cd7-9631-38adee0c6261</uuid>
 <uuid name="battle_entities_shape_enum">44e84fab-bff8-4354-a9dc-99aa58785e5b</uuid>
