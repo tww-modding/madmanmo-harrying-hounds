@@ -6,7 +6,7 @@
             "request": "launch",
             "name": "PowerShell Launch (current file)",
             "script": "${file}",
-            "args": [],
+            "args": [ "-Verbose" ],
             "cwd": "${file}"
         }
     ]
