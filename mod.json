@@ -1,9 +1,8 @@
 {
-    "name":  "madmanmo-{mod-name-here}",
-    "version":  
-	{
-		"breaking":  0,
-		"patch":  0,
-		"build":  1
-	}
+    "name":  "madmanmo-harrying-hounds",
+    "version":  {
+                    "breaking":  0,
+                    "patch":  0,
+                    "build":  2
+                }
 }
